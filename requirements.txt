@@ -1,11 +1,11 @@
-streamlit~=1.35.0
+streamlit
 ffmpeg-python
 pydub
 openai-whisper
-torch~=2.1.1
-transformers~=4.37.2
+torch
+transformers
 youtube_dl
-pytube~=15.0.0
+pytube
 torchaudio
 speechbrain
 yt-dlp
