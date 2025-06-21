@@ -5,4 +5,4 @@ torchaudio
 speechbrain
 yt-dlp
 huggingface_hub
-sentencepiece==0.1.99 --prefer-binary
+cmake==3.27
