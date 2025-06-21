@@ -96,8 +96,6 @@ accent_tool_project/
 This ensures Streamlit Cloud installs essential system packages:
 
 * **FFmpeg** (audio handling)
-* **pkg-config**, **cmake** (C++ build tools)
-* **libsentencepiece-dev** (required by `sentencepiece` Python module)
 
 ---
 
