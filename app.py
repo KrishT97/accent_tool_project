@@ -45,6 +45,7 @@ if st.button("Analyze Accent") and url:
                     'format': 'bestaudio/best',
                     'outtmpl': '%(id)s.%(ext)s',
                     'quiet': True,
+                    'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',  # ← spoof real browser
                 }
                 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                     info = ydl.extract_info(url, download=True)
