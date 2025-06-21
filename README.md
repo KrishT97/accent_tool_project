@@ -4,6 +4,8 @@
 
 This project is a Streamlit web app designed to analyze English speech accents using audio from YouTube videos. The tool automatically downloads audio, transcribes it with OpenAI's Whisper model, and performs accent classification using a fine-tuned model based on SpeechBrain.
 
+_To Note: american accent seems to be the hardest to detect by the model, it might fail to recognize the accent entirely_
+
 ---
 
 ## Approach
