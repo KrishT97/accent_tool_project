@@ -1,1 +1,4 @@
 ffmpeg
+pkg-config
+cmake
+libsentencepiece-dev
