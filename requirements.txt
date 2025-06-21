@@ -1,7 +1,7 @@
 streamlit
 ffmpeg-python
 pydub
-openai-whisper
+whisper
 torch
 transformers
 youtube_dl
