@@ -89,7 +89,7 @@ Ensure you have:
 accent_tool_project/
 ├── app.py
 ├── requirements.txt
-├── packages.txt      # (no extension) for Streamlit Cloud package installs
+├── packages.txt      # for Streamlit Cloud package installs
 └── README.md
 ```
 
