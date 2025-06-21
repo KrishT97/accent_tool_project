@@ -1,11 +1,7 @@
 streamlit
-ffmpeg-python
-pydub
 whisper
 torch
-transformers
-youtube_dl
-pytube
 torchaudio
 speechbrain
 yt-dlp
+huggingface_hub
