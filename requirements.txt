@@ -1,7 +1,11 @@
-streamlit
-whisper
-torch
+streamlit~=1.35.0
+ffmpeg-python
+pydub
+openai-whisper
+torch~=2.1.1
+transformers~=4.37.2
+youtube_dl
+pytube~=15.0.0
 torchaudio
 speechbrain
 yt-dlp
-huggingface_hub
